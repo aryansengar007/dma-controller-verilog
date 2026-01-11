@@ -1,0 +1,43 @@
+{D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_memory.v} {1 {vlog -work work -stats=none {D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dma_memory
+
+Top level modules:
+	dma_memory
+
+} {} {}} {D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_bus_master.v} {1 {vlog -work work -stats=none {D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_bus_master.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dma_bus_master
+
+Top level modules:
+	dma_bus_master
+
+} {} {}} {D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_regs.v} {1 {vlog -work work -stats=none {D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_regs.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dma_regs
+
+Top level modules:
+	dma_regs
+
+} {} {}} {D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_tb.v} {1 {vlog -work work -stats=none {D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dma_tb
+
+Top level modules:
+	dma_tb
+
+} {} {}} {D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_fsm.v} {1 {vlog -work work -stats=none {D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_fsm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dma_fsm
+
+Top level modules:
+	dma_fsm
+
+} {} {}} {D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_top.v} {1 {vlog -work work -stats=none {D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dma_top
+
+Top level modules:
+	dma_top
+
+} {} {}}

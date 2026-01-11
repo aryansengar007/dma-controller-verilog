@@ -1,0 +1,17 @@
+vsim -gui work.dma_tb
+# vsim -gui work.dma_tb 
+# Start time: 19:46:48 on Nov 27,2025
+# Loading work.dma_tb
+# Loading work.dma_top
+# Loading work.dma_regs
+# Loading work.dma_fsm
+# Loading work.dma_bus_master
+# Loading work.dma_memory
+add wave -position insertpoint sim:/dma_tb/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Aryan Sengar  Hostname: LAPTOP-INKN79LC  ProcessID: 22376
+#           Attempting to use alternate WLF file "./wlfthz2i8y".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfthz2i8y
+# End time: 19:49:14 on Nov 27,2025, Elapsed time: 0:02:26
+# Errors: 0, Warnings: 3

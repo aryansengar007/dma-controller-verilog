@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vdma_bus_master
+Z0 !s110 1764163161
+!i10b 1
+!s100 >0obSSDTXJKh9A<EadWEP1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IL3a[T3iWWdcG`@Wkjo6RJ3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/.NCU sem 5/OE_RTL_Design/dma_controller
+w1764096239
+8D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_bus_master.v
+FD:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_bus_master.v
+!i122 9
+L0 1 102
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1764163161.000000
+!s107 D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_bus_master.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_bus_master.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vdma_fsm
+R0
+!i10b 1
+!s100 1YekSofN]IdnQL8n6b1QX1
+R1
+Iz8YV^YNaWA0TPlZ>A0lCa0
+R2
+R3
+w1764096201
+8D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_fsm.v
+FD:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_fsm.v
+!i122 8
+L0 1 129
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_fsm.v|
+!i113 1
+R6
+R7
+vdma_memory
+R0
+!i10b 1
+!s100 beaVC;N>l^LHa:Rke7bmk2
+R1
+ICV2eCY=:gK=`]kJR=eg9n2
+R2
+R3
+w1764096305
+8D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_memory.v
+FD:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_memory.v
+!i122 10
+L0 1 61
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_memory.v|
+!i113 1
+R6
+R7
+vdma_regs
+R0
+!i10b 1
+!s100 KJg3BIVQiMJQAS]5PXnD13
+R1
+IizJ@P5__:T?NI<[n6?HGo0
+R2
+R3
+w1764096109
+8D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_regs.v
+FD:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_regs.v
+!i122 7
+L0 1 78
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_regs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_regs.v|
+!i113 1
+R6
+R7
+vdma_tb
+R0
+!i10b 1
+!s100 Q^E6fOfH3OQ77_I2<a<TR0
+R1
+IB>BG^7aLZfFfVHhIk1NJa0
+R2
+R3
+w1764096372
+8D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_tb.v
+FD:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_tb.v
+!i122 11
+L0 3 146
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_tb.v|
+!i113 1
+R6
+R7
+vdma_top
+R0
+!i10b 1
+!s100 CQVSjYk;ao^bmRgCVmkZ:1
+R1
+I0igUJS?[6[T^H?E=jD[FW3
+R2
+R3
+w1764096027
+8D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_top.v
+FD:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_top.v
+!i122 6
+L0 1 92
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/.NCU sem 5/OE_RTL_Design/dma_controller/dma_top.v|
+!i113 1
+R6
+R7
